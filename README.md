@@ -1,3 +1,5 @@
+## Fork for Laravel 12 
+
 <div align="center">
 
 # Laravel OTP Manager
